@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "name": [
+    {
+      "language": "en",
+      "value": "Haruki #1"
+    },
+    {
+      "language": "ko",
+      "value": "Haruki #1"
+    }
+  ],
+  "description": [
+    {
+      "language": "en",
+      "value": "Haruki will be smart"
+    },
+    {
+      "language": "ko",
+      "value": "하루키는 똑똑해질거야"
+    }
+  ],
+  "edition": "1 of 1",
+  "image": "https://nile.blob.core.windows.net/media/SON4/1.jpg",
+  "externalLink": "",
+  "backgroundColor": "",
+  "attributes": [
+    {
+      "type": "Type",
+      "value": [
+        "Cat"
+      ]
+    },
+    {
+      "type": "Name",
+      "value": [
+        "Haruki"
+      ]
+    }
+  ]
+}
