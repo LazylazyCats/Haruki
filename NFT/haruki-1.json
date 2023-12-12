@@ -1,0 +1,15 @@
+{
+    "name": "Haruki",
+    "description": "Hello, Stranger",
+    "image": "https://raw.githubusercontent.com/LazylazyCats/Haruki/NFT/haruki-1.png",
+    "attributes": [
+      {
+        "trait_type": "Birth",
+        "value": 2023
+      },
+      {
+        "trait_type": "Species",
+        "value": "Cat"
+      }
+    ]
+  }
